@@ -4,3 +4,4 @@ PORT =
 
 MONGO_URI = 
 
+SECRET_KEY = 
